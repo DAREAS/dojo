@@ -12,14 +12,35 @@ Exemplo:
 
 De http://dojopuzzles.com/problemas/exibe/intervalos/
 
-### Participantes: ###
+### [31/07/2015] ###
+
+#### Participantes: ####
+- Bemjamim, David, Diogo, Jenser, José Maria e Ricardson 
+
+#### Pontos positivos: ####
+- Liberdade na hora de resolver o algoritimo, principalmente por Zangado ++++
+- Horário +++ 
+- Respeitar o "nao falar" ++
+- Melhor momento, zeh apagando o codigo do jenser +++ 
+- Nostalgia de ver velhos amigos e fazer algo junto
+- Melhorar a capacidade de programar e explicar ao mesmo tempo
+
+#### Pontos negativos: ####
+- Problema não solucionado --
+- Problema de infra da galera -
+- Para mim seria melhor durante a semana a noite
+- Skype x TV, usar somente TV na proxima
+
+### [25/07/2015] ###
+
+#### Participantes: ####
 - Bemjamim, David (platéia), Jenser e Ricardson 
 
 
-### Pontos positivos: ###
+#### Pontos positivos: ####
 - Somente piloto e co-piloto interagiam durante a solução do problema (ao menos, a maior parte do tempo) +
 - Rapidez ao desenvolver senso crítico e começar a questionar a forma que o algoritmo estava sendo solucionado (considerando ser a primeira vez) +
 
-### Pontos negativos: ###
+#### Pontos negativos: ####
 - Horário +
 - Problema não solucionado +

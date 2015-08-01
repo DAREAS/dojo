@@ -1,6 +1,6 @@
 # dojo
 
-## [25/07/2015 às 10:00 GMT -3] Jokenpo
+## [24/07/2015 às 10:00 GMT -3] Jokenpo
 
 Este problema foi utilizado em 349 Dojo(s). 
 
